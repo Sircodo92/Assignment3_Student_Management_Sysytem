@@ -1,0 +1,9 @@
+101,Omoruyi,Idehen,27,Male,Java,98
+102,Shravan,Magudungu,20,Male,Web,97
+103,Abhisha,Matthew,19,Female,Java,97
+104,Parthu,Gade,22,Male,SQL,96
+105,Jisna ,Matthew,23,Female,Web,97
+106,Robin,Matthew,22,Male,XML,97
+107,Opeyemi,Idehen,24,Female,HTML,99
+108,AKinbuwa,Bolu,21,Female,Businnesss Analytics,98
+110,David,Mark,22,Male,Web,97
